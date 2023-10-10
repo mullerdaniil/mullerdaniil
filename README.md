@@ -22,14 +22,14 @@
 
 
 
-## My social networks
+## My Social Networks
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mullerdaniil)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniil-muller-288071256/)
 
 
 
-## My skills
+## My Skills
 
 ### Languages
 
